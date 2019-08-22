@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">UnicodeApp</string>
+    <string name="name"><font fgcolor='#FF0000'>*</font>Name :</string>
+    <string name="surname">Surname :</string>
+    <string name="id"><font fgcolor='#FF0000'>*</font>Id :</string>
+    <string name="branch"><font fgcolor='#FF0000'>*</font>Branch :</string>
+    <string name="age"><font fgcolor='#FF0000'>*</font>Age :</string>
+    <string name="gender"><font fgcolor='#FF0000'>*</font>Select Gender :</string>
+    <string name="signIn">Sign In</string>
+
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+
+    <dimen name="height">35dp</dimen>
+    <dimen name="width">100dp</dimen>
+</resources>
